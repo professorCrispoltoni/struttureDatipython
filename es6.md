@@ -4,10 +4,10 @@
 
 **Input esempio:**
 ```
-Inserisci rossa o blu...: blu
-...: rossa
-...: del
-...: stop
+Inserisci rossa o blu: blu
+Inserisci rossa o bl: rossa
+Inserisci rossa o bl: del
+Inserisci rossa o bl: stop
 ```
 
 **Output atteso:**

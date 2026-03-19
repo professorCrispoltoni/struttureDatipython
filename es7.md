@@ -5,9 +5,10 @@
 **Fasce:** A:[70-100], B:[60-69], ..., F:[0-29]
 
 **Input esempio:**
+
 ```
 Che voto hai preso in Matematica? 85
-...
+```
 
 **Output:** `{'Matematica': 'A', 'Filosofia': 'C', ...}`
 

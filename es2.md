@@ -16,4 +16,5 @@
 3. Stampa lista ordinata e mediana
 
 **Livello:** Liste + if/else
+
 **Hint:** `lista.sort()`, `n = len(lista)`

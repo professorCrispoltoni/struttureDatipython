@@ -12,6 +12,7 @@ squadra = {
     "Giulia": 19,
     "Sara": 12
 }
+```
 
 Richieste
 
@@ -23,6 +24,7 @@ Scrivere un programma che:
 - Calcoli la media delle età
 
 Output atteso
+```
 Giocatori maggiorenni:
 Luca - 25
 Giulia - 19
@@ -30,3 +32,4 @@ Giulia - 19
 Età minima: 12 (Sara)
 Età massima: 25 (Luca)
 Media età: 18.25
+```
